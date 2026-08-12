@@ -69,7 +69,7 @@ function productLine(p) {
 
 async function main() {
   const res = await fetch(API_URL, {
-    headers: { "user-agent": "awesome-vibe-coded-apps generator (github.com/0xvibly/awesome-vibe-coded-apps)" },
+    headers: { "user-agent": "shipped-with-ai generator (github.com/0xvibly/shipped-with-ai)" },
   });
   if (!res.ok) throw new Error(`API returned HTTP ${res.status}`);
   const body = await res.json();
@@ -118,9 +118,9 @@ async function main() {
     : "";
 
   lines.push(
-    "# Awesome Vibe-Coded Apps [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)",
+    "# Shipped with AI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)",
     "",
-    "> A curated list of vibe-coded apps — real products built with AI coding tools.",
+    "> A curated list of real products built with AI coding tools — vibe-coded apps that actually shipped, each one checked live.",
     "",
     "### ➜ Full searchable directory: **[vibeking.fun](https://vibeking.fun)**",
     "",
