@@ -4,7 +4,7 @@
 
 ### ➜ Full searchable directory: **[vibeking.fun](https://vibeking.fun)**
 
-This README is a daily snapshot. The live directory has search, category filters, upvoting, maker profiles and every one of the 2,631 products — this file only shows the top 15 per category.
+This README is a daily snapshot. The live directory has search, category filters, upvoting, maker profiles and every one of the 2,633 products — this file only shows the top 15 per category.
 
 | | |
 |---|---|
@@ -15,15 +15,15 @@ This README is a daily snapshot. The live directory has search, category filters
 
 ## How this list is built
 
-This file is **regenerated every day by [GitHub Actions](.github/workflows/update.yml)**, straight from the live [vibeking.fun](https://vibeking.fun) directory via its free public API (`GET /api/products`, no key, CORS enabled — see [the docs](https://vibeking.fun/api) or the [vibeking-api](https://github.com/0xvibly/vibeking-api) repo). Nothing here is hand-curated, so it never goes stale: **2,631 products** across **16 categories**, each section showing the top 15 by community upvotes. Last updated 2026-10-09.
+This file is **regenerated every day by [GitHub Actions](.github/workflows/update.yml)**, straight from the live [vibeking.fun](https://vibeking.fun) directory via its free public API (`GET /api/products`, no key, CORS enabled — see [the docs](https://vibeking.fun/api) or the [vibeking-api](https://github.com/0xvibly/vibeking-api) repo). Nothing here is hand-curated, so it never goes stale: **2,633 products** across **16 categories**, each section showing the top 15 by community upvotes. Last updated 2026-10-10.
 
-Every listed URL is re-probed on a schedule, and the source API publishes the result: **2,389 confirmed live**, 27 at risk, 215 dead, 0 not yet checked. Most directories never tell you how much of their index has rotted.
+Every listed URL is re-probed on a schedule, and the source API publishes the result: **2,387 confirmed live**, 31 at risk, 215 dead, 0 not yet checked. Most directories never tell you how much of their index has rotted.
 
 ## Contents
 
 - [AI Coding](#ai-coding) (691)
 - [Dev Tools](#dev-tools) (408)
-- [Marketing](#marketing) (322)
+- [Marketing](#marketing) (324)
 - [SaaS](#saas) (240)
 - [Productivity](#productivity) (181)
 - [Design](#design) (165)
@@ -42,16 +42,16 @@ Every listed URL is re-probed on a schedule, and the source API publishes the re
 ## AI Coding
 
 - [APIDot](https://apidot.ai/) — Unified AI API Platform for Image, Video, Music, and Chat Models. ▲ 1025 · [VibeKing](https://vibeking.fun/product/3527)
-- [TranslateImage AI](https://www.translateimage.ai/) — TranslateImage AI is a web-based utility that performs text translation on image files while maintaining the… ▲ 972 · [VibeKing](https://vibeking.fun/product/4422)
+- [TranslateImage AI](https://www.translateimage.ai/) — TranslateImage AI is a web-based utility that performs text translation on image files while maintaining the… ▲ 975 · [VibeKing](https://vibeking.fun/product/4422)
 - [AgentFlow](https://bizboostai.space/) — AgentFlow is a web-based automation platform designed to manage both inbound and outbound communication… ▲ 913 · [VibeKing](https://vibeking.fun/product/4421)
 - [AI Anime Pro](https://aianimepro.com/) — AI Anime Pro is a web-based design tool that combines text-to-image generation and photo transformation with… ▲ 854 · [VibeKing](https://vibeking.fun/product/4513)
 - [OnCallClerk](https://oncallclerk.com/) — OnCallClerk provides continuous automated phone support by deploying AI agents that handle lead capture… ▲ 839 · [VibeKing](https://vibeking.fun/product/5224)
-- [AI Video Background Remover](https://removebgvideo.com/) — AI Video Background Remover provides content creators and non-technical users with a web-based solution for… ▲ 802 · [VibeKing](https://vibeking.fun/product/4623)
+- [AI Video Background Remover](https://removebgvideo.com/) — AI Video Background Remover provides content creators and non-technical users with a web-based solution for… ▲ 804 · [VibeKing](https://vibeking.fun/product/4623)
 - [JobsLobster](https://jobslobster.com/) — AI-powered resume builder. ▲ 742 · [VibeKing](https://vibeking.fun/product/3925)
 - [Edge Arena](https://edgearena.app/) — AI agents compete for optimal, verified solutions. ▲ 733 · [VibeKing](https://vibeking.fun/product/4077)
 - [Droidal Insurance Verification AI Agent](https://droidal.ai/insurance-verification-ai-agent) — Real-time eligibility. Cuts denials, speeds pay. ▲ 713 · [VibeKing](https://vibeking.fun/product/3814)
-- [Goals](https://www.makegoals.app/) — AI turns your goal into one daily action. ▲ 631 · [VibeKing](https://vibeking.fun/product/2917)
-- [Cognlay](https://cognlay.com/) — Cognlay is a web-based adaptive outbound engine designed for founders and lean teams to optimize cold email… ▲ 617 · [VibeKing](https://vibeking.fun/product/4345)
+- [Goals](https://www.makegoals.app/) — AI turns your goal into one daily action. ▲ 632 · [VibeKing](https://vibeking.fun/product/2917)
+- [Cognlay](https://cognlay.com/) — Cognlay is a web-based adaptive outbound engine designed for founders and lean teams to optimize cold email… ▲ 618 · [VibeKing](https://vibeking.fun/product/4345)
 - [Exbabel](https://www.exbabel.com/) — Realtime Sermon Translation into every Language. ▲ 614 · [VibeKing](https://vibeking.fun/product/3693)
 - [VeltoAI](https://veltoai.app/) — VeltoAI is a web-based platform that combines AI agents with project management to assist in business… ▲ 598 · [VibeKing](https://vibeking.fun/product/4630)
 - [TyfuPulse](https://tyfupulse.com/) — TyfuPulse provides a web-based automation platform tailored for managing presence on Instagram and Facebook… ▲ 588 · [VibeKing](https://vibeking.fun/product/4514)
@@ -62,17 +62,17 @@ Every listed URL is re-probed on a schedule, and the source API publishes the re
 ## Dev Tools
 
 - [CookieGuard](https://cookieguard.co/) — CookieGuard is a web-based platform designed to automate global cookie consent workflows for developers and… ▲ 801 · [VibeKing](https://vibeking.fun/product/4442)
+- [Needle](https://needle.app/) — Vibe-automate workflows and earn passive income. ▲ 761 · [VibeKing](https://vibeking.fun/product/2742)
 - [WebUtils](https://essays4u.net/) — WebUtils provides a browser-based suite of over 1001 frontend utilities focused on offline accessibility and… ▲ 760 · [VibeKing](https://vibeking.fun/product/4868)
-- [Needle](https://needle.app/) — Vibe-automate workflows and earn passive income. ▲ 758 · [VibeKing](https://vibeking.fun/product/2742)
 - [Build This Now](https://www.buildthisnow.com/) — Build This Now provides an AI orchestration framework for Claude Code, combining specialist agents and… ▲ 726 · [VibeKing](https://vibeking.fun/product/5109)
-- [UniSMS API](https://unismsapi.com/) — UniSMS API provides developer-centric SMS infrastructure specifically for the Philippines market with an… ▲ 541 · [VibeKing](https://vibeking.fun/product/4556)
+- [UniSMS API](https://unismsapi.com/) — UniSMS API provides developer-centric SMS infrastructure specifically for the Philippines market with an… ▲ 564 · [VibeKing](https://vibeking.fun/product/4556)
 - [Quash](https://quashbugs.com/) — A mobile QA agent that runs tests without scripts. ▲ 536 · [VibeKing](https://vibeking.fun/product/3041)
 - [Technical Diagram](https://technicaldiagram.com/) — Technical Diagram is a web-based platform for developers and technical writers to create architecture… ▲ 382 · [VibeKing](https://vibeking.fun/product/4398)
 - [Faster PR](https://chromewebstore.google.com/detail/faster-pr/lcenjlelbnlooigocboklccingbhiajh) — Faster PR is a web-based developer tool that automates the generation and copying of branch names, commit… ▲ 343 · [VibeKing](https://vibeking.fun/product/5053)
 - [Venet](https://venet.dev/) — Venet is a web-based monitoring and automation platform that consolidates client site performance metrics… ▲ 336 · [VibeKing](https://vibeking.fun/product/4880)
 - [PinMe](https://pinme.eth.limo/) — Zero-config frontend deployment with no servers or setup. ▲ 331 · [VibeKing](https://vibeking.fun/product/3042)
-- [TermsBuilder](https://www.termsbuilder.com/) — Designed as an attorney-built legal document generator, TermsBuilder provides hosted legal pages and managed… ▲ 318 · [VibeKing](https://vibeking.fun/product/4429)
-- [AnyPost](https://anypost.md/) — AnyPost is a freemium developer tool that converts social media content into structured Markdown, enabling… ▲ 310 · [VibeKing](https://vibeking.fun/product/4672)
+- [TermsBuilder](https://www.termsbuilder.com/) — Designed as an attorney-built legal document generator, TermsBuilder provides hosted legal pages and managed… ▲ 319 · [VibeKing](https://vibeking.fun/product/4429)
+- [AnyPost](https://anypost.md/) — AnyPost is a freemium developer tool that converts social media content into structured Markdown, enabling… ▲ 312 · [VibeKing](https://vibeking.fun/product/4672)
 - [Mintlify](https://mintlify.com/) — AI-native collaborative editor. ▲ 305 · [VibeKing](https://vibeking.fun/product/2863)
 - [Wandesk](https://wandesk.ai/) — Build Your Own AI Desktop. ▲ 298 · [VibeKing](https://vibeking.fun/product/2808)
 - [display.dev](https://display.dev/) — Publish agent-generated HTML behind company auth. ▲ 285 · [VibeKing](https://vibeking.fun/product/3019)
@@ -81,7 +81,7 @@ Every listed URL is re-probed on a schedule, and the source API publishes the re
 
 ## Marketing
 
-- [Owl Insight](https://owlinsight.dev/) — Google Analytics the simple way. ▲ 952 · [VibeKing](https://vibeking.fun/product/3084)
+- [Owl Insight](https://owlinsight.dev/) — Google Analytics the simple way. ▲ 955 · [VibeKing](https://vibeking.fun/product/3084)
 - [TradeMRR](https://trademrr.com/) — TradeMRR operates a web-based barter marketplace specifically for micro SaaS developers to facilitate quid… ▲ 778 · [VibeKing](https://vibeking.fun/product/4637)
 - [FIDELIO](https://fidelio.agency/) — FIDELIO is a web-based automation platform that synthesizes content creation and multi-channel publishing for… ▲ 755 · [VibeKing](https://vibeking.fun/product/5165)
 - [Frontdesk AI](https://myaifrontdesk.com/) — AI COO to run your business like a Fortune 500 enterprise. ▲ 706 · [VibeKing](https://vibeking.fun/product/2951)
@@ -97,7 +97,7 @@ Every listed URL is re-probed on a schedule, and the source API publishes the re
 - [PipelineGrader](https://www.pipelinegrader.com/) — Free B2B pipeline audit calculators. No signup required. ▲ 294 · [VibeKing](https://vibeking.fun/product/3753)
 - [Branched](https://branched.in/) — Branched: collaborative storytelling with alternate timeline. ▲ 290 · [VibeKing](https://vibeking.fun/product/3094)
 
-*…and 307 more in [Marketing on VibeKing](https://vibeking.fun/best).*
+*…and 309 more in [Marketing on VibeKing](https://vibeking.fun/best).*
 
 ## SaaS
 
@@ -107,13 +107,13 @@ Every listed URL is re-probed on a schedule, and the source API publishes the re
 - [We-Pilot.AI](https://we-pilot.ai/) — We-Pilot.AI provides a web-based talent marketplace connecting organizations with AI engineering expertise… ▲ 564 · [VibeKing](https://vibeking.fun/product/5084)
 - [IntentHunter](https://intenthunter.com/) — Social Listening and Brand Monitoring for High-Intent Leads. ▲ 550 · [VibeKing](https://vibeking.fun/product/4288)
 - [EnsembleData](https://ensembledata.com/) — Real-time social media data APIs for businesses. ▲ 394 · [VibeKing](https://vibeking.fun/product/4066)
-- [Verdict](https://useverdict.io/) — What a real VC would say about your deck. Before you pitch. ▲ 333 · [VibeKing](https://vibeking.fun/product/3132)
+- [Verdict](https://useverdict.io/) — What a real VC would say about your deck. Before you pitch. ▲ 334 · [VibeKing](https://vibeking.fun/product/3132)
 - [Valuta VIP](https://valutaconsulting.com/) — Valuta VIP provides founders and professionals with a centralized web platform for CRM, fintech analytics… ▲ 330 · [VibeKing](https://vibeking.fun/product/4608)
 - [Top Tejados Palencia](https://toptejadospalencia.com/construccion-de-tejados-y-cubiertas/palencia/) — Top Tejados Palencia provides specialized construction services for roofs and covers within the Palencia… ▲ 328 · [VibeKing](https://vibeking.fun/product/4365)
 - [Zipflipbook.com](https://zipflipbook.com/) — Turn Static PDFs to Lead Machines. ▲ 323 · [VibeKing](https://vibeking.fun/product/4135)
+- [WooTrack](https://wootrack.app/) — WooTrack is a web-based client portal designed for solopreneurs to manage project updates and invoicing via a… ▲ 299 · [VibeKing](https://vibeking.fun/product/4946)
 - [APM — Process Manager for Linux](https://processmanager.dev/) — APM is a free, language-agnostic Linux process manager that integrates supervision with built-in networking… ▲ 298 · [VibeKing](https://vibeking.fun/product/4692)
 - [Wyapy](https://www.wyapy.com/) — Wyapy provides a web-based suite for launching branded CSAT, NPS, and CES surveys integrated with AI-driven… ▲ 296 · [VibeKing](https://vibeking.fun/product/4991)
-- [WooTrack](https://wootrack.app/) — WooTrack is a web-based client portal designed for solopreneurs to manage project updates and invoicing via a… ▲ 295 · [VibeKing](https://vibeking.fun/product/4946)
 - [Galaxiana](https://galaxiana.com/) — Dedicate a star in the galaxy — forever yours. ▲ 285 · [VibeKing](https://vibeking.fun/product/3826)
 - [Washr Mobile Detailing & Car Wash](https://washrmobile.com/) — Washr Mobile Detailing & Car Wash provides on-demand vehicle maintenance services through a mobile platform… ▲ 260 · [VibeKing](https://vibeking.fun/product/4837)
 
@@ -164,7 +164,7 @@ Every listed URL is re-probed on a schedule, and the source API publishes the re
 - [Retro](https://retrogo.app/) — AI tool that lets you talk to a younger version of yourself. ▲ 917 · [VibeKing](https://vibeking.fun/product/3088)
 - [Navio: Travel Organizer](https://apps.apple.com/us/app/navio-travel-organizer/id6757349373) — Navio is a free mobile and web application that automates travel organization by consolidating flights… ▲ 733 · [VibeKing](https://vibeking.fun/product/5140)
 - [Aikin Intelligence Technologies LLC](https://www.haicook.ai/) — Discover HAiCook — an AI recipe generator and cooking app th. ▲ 576 · [VibeKing](https://vibeking.fun/product/4234)
-- [Auribook](https://auribook.jminke.com/) — 100% Standalone Apple Watch app for audiobooks. ▲ 519 · [VibeKing](https://vibeking.fun/product/3718)
+- [Auribook](https://auribook.jminke.com/) — 100% Standalone Apple Watch app for audiobooks. ▲ 521 · [VibeKing](https://vibeking.fun/product/3718)
 - [Color Tower 3D Logic Puzzle](https://play.google.com/store/apps/details?id=com.sepu.colorTower3D) — Rotate and match tiles around the Tower to create colorful c. ▲ 339 · [VibeKing](https://vibeking.fun/product/3414)
 - [Maker/OS](https://www.makeros.academy/) — How modern digital products are really built. ▲ 337 · [VibeKing](https://vibeking.fun/product/4311)
 - [Onyx Tech Inc](https://ficnova.ai/) — Ficnova is an AI visual novel where every scene is written l. ▲ 333 · [VibeKing](https://vibeking.fun/product/3437)
@@ -188,7 +188,7 @@ Every listed URL is re-probed on a schedule, and the source API publishes the re
 - [Lexfi](https://www.lexfi.ai/) — Financial Intelligence Layer for AI Agents. ▲ 333 · [VibeKing](https://vibeking.fun/product/4004)
 - [Trillboard](https://trillboard.online/) — Live trillionaire tracker. Buy a spot on the list. ▲ 303 · [VibeKing](https://vibeking.fun/product/4267)
 - [Patient app](https://dermis.app/) — This is a whole revenue machine for the aesthetic clinics. ▲ 281 · [VibeKing](https://vibeking.fun/product/3380)
-- [Sprault](https://sprault.com/) — The Wealth System for Everyone. ▲ 273 · [VibeKing](https://vibeking.fun/product/3325)
+- [Sprault](https://sprault.com/) — The Wealth System for Everyone. ▲ 275 · [VibeKing](https://vibeking.fun/product/3325)
 - [Coproly](https://coproly.com/) — All-in-one platform to simplify condo management. ▲ 269 · [VibeKing](https://vibeking.fun/product/3559)
 - [ChaChing](https://chaching.io/) — Cut Stripe’s billing fees in half & keep Stripe for payments. ▲ 222 · [VibeKing](https://vibeking.fun/product/2790)
 - [Mail2Ledger](https://www.zinkforge.com/mail2ledger/) — Turn Gmail Invoices Into a Google Sheets Ledger, Automatical. ▲ 158 · [VibeKing](https://vibeking.fun/product/3445)
@@ -206,8 +206,8 @@ Every listed URL is re-probed on a schedule, and the source API publishes the re
 - [Offer Bull](https://www.offerbull.net/) — AI Interview Assistant – Land offers with smart mock intervi. ▲ 732 · [VibeKing](https://vibeking.fun/product/3377)
 - [WonderWay](https://www.wonderway.app/) — WonderWay provides an audio-focused educational platform for children aged 3-10, offering a freemium model… ▲ 516 · [VibeKing](https://vibeking.fun/product/4940)
 - [AIEasyStudy](https://aieasystudy.com/) — Study smarter with instant AI quizzes and tutoring. ▲ 288 · [VibeKing](https://vibeking.fun/product/3078)
+- [Chalk Talk HQ](https://chalktalkhq.com/) — Design plays, build digital playbooks, and quiz your athlete. ▲ 225 · [VibeKing](https://vibeking.fun/product/4305)
 - [Focus Session](https://trylaunch.ai/launch/focus-session) — Focus Session provides structured web-based consulting for startup leaders and independent makers seeking… ▲ 225 · [VibeKing](https://vibeking.fun/product/5199)
-- [Chalk Talk HQ](https://chalktalkhq.com/) — Design plays, build digital playbooks, and quiz your athlete. ▲ 222 · [VibeKing](https://vibeking.fun/product/4305)
 - [WeSpeak](https://wespeak.now/) — WeSpeak - English Speaking Practice with an AI Tutor. ▲ 208 · [VibeKing](https://vibeking.fun/product/3129)
 - [Gemma4Guide](https://gemma4guide.com/) — Your definitive guide to Google Gemma 4. ▲ 178 · [VibeKing](https://vibeking.fun/product/3334)
 - [express car](https://expresscouriercars.co.uk/) — Book a dependable Croydon taxi service for local trips, airp. ▲ 176 · [VibeKing](https://vibeking.fun/product/3306)
@@ -224,11 +224,11 @@ Every listed URL is re-probed on a schedule, and the source API publishes the re
 - [SuperShrimp](https://www.supershrimp.io/) — Fix your terrible posture. ▲ 915 · [VibeKing](https://vibeking.fun/product/2871)
 - [VetPrep.Help](https://vetprep.help/) — This web-based platform serves non-technical users in the health and education sectors by simplifying veteran… ▲ 659 · [VibeKing](https://vibeking.fun/product/4908)
 - [Neuralingual](https://neuralingual.com/) — AI-powered personalized affirmation audio. iOS. ▲ 621 · [VibeKing](https://vibeking.fun/product/4019)
-- [Gymifi](https://gymifi.fit/) — The Perfect Gym App. ▲ 366 · [VibeKing](https://vibeking.fun/product/4103)
+- [Gymifi](https://gymifi.fit/) — The Perfect Gym App. ▲ 369 · [VibeKing](https://vibeking.fun/product/4103)
 - [Still: Pray More](https://getstill.app/) — Still: Pray More provides prayer tracking, journaling, and analytics for non-technical users on mobile… ▲ 354 · [VibeKing](https://vibeking.fun/product/5149)
 - [THRIVE](https://trythrive.app/) — Optimize testosterone naturally with science-backed habits. ▲ 334 · [VibeKing](https://vibeking.fun/product/3336)
 - [FitChart](https://apps.apple.com/us/app/fitchart-workout-diet/id6754648805) — Workout · Diet · AI Coach. ▲ 191 · [VibeKing](https://vibeking.fun/product/4005)
-- [CliniSearch](https://clinisearch.co.uk/) — CliniSearch serves as a centralized web platform for non-technical users and students to access UK medical… ▲ 123 · [VibeKing](https://vibeking.fun/product/5233)
+- [CliniSearch](https://clinisearch.co.uk/) — CliniSearch serves as a centralized web platform for non-technical users and students to access UK medical… ▲ 126 · [VibeKing](https://vibeking.fun/product/5233)
 - [Aarogyaa Bharat](https://aarogyaabharat.com/) — Aarogyaa Bharat is a trusted online healthcare platform. ▲ 120 · [VibeKing](https://vibeking.fun/product/3894)
 - [BLDscan](https://bldscan.com/) — Understand your blood test results in plain English. ▲ 116 · [VibeKing](https://vibeking.fun/product/3463)
 - [Padel Chess](https://www.padelchess.me/) — Padel tactics learning app. ▲ 116 · [VibeKing](https://vibeking.fun/product/3583)
@@ -245,11 +245,11 @@ Every listed URL is re-probed on a schedule, and the source API publishes the re
 - [UpSEO](https://www.upseo.com/) — UpSEO provides a managed SEO-as-a-Service model for the SEO & Content Marketing category, specifically… ▲ 611 · [VibeKing](https://vibeking.fun/product/4581)
 - [CiteLens](https://citelens.dev/) — Paste any URL and get your AI readability score in 30 second. ▲ 326 · [VibeKing](https://vibeking.fun/product/4250)
 - [ASH Clipping Agency](https://discord.gg/ashclipping) — ASH Clipping Agency operates a creator-driven platform focused on organic short-form content growth across… ▲ 310 · [VibeKing](https://vibeking.fun/product/4760)
-- [Disavow.ai](https://www.disavow.ai/) — Disavow.ai provides an SEO safety solution that identifies toxic backlinks using a 4-layer Smart Risk Engine… ▲ 240 · [VibeKing](https://vibeking.fun/product/4744)
+- [Disavow.ai](https://www.disavow.ai/) — Disavow.ai provides an SEO safety solution that identifies toxic backlinks using a 4-layer Smart Risk Engine… ▲ 241 · [VibeKing](https://vibeking.fun/product/4744)
 - [MaxAEO](https://maxaeo.ai/) — AI search visibility tracking for brands. ▲ 226 · [VibeKing](https://vibeking.fun/product/4017)
 - [SEOscar](https://www.seoscar.io/) — JSON-First SEO Auditor & AI-Powered Optimization Platform. ▲ 117 · [VibeKing](https://vibeking.fun/product/3332)
+- [Rune \| The operating system for builders](https://rune.codes/) — Rune Codes is a free web ecosystem for building, learning, a. ▲ 111 · [VibeKing](https://vibeking.fun/product/4304)
 - [Sagtool](https://sagtool.com/) — Sagtool Audits ur website for GEO AEO & SEO in 30 seconds. ▲ 109 · [VibeKing](https://vibeking.fun/product/3350)
-- [Rune \| The operating system for builders](https://rune.codes/) — Rune Codes is a free web ecosystem for building, learning, a. ▲ 108 · [VibeKing](https://vibeking.fun/product/4304)
 - [U301 Your Branded URL Shortener](https://u301.com/) — U301 is a web-based brand management tool that enables users to create customized short links using their own… ▲ 107 · [VibeKing](https://vibeking.fun/product/4763)
 - [Siteline](https://siteline.ai/) — Growth analytics for the agentic web. ▲ 101 · [VibeKing](https://vibeking.fun/product/2754)
 - [Youtube Video Cutter](https://ytvideocutter.com/) — Youtube Video Cutter is a web-based utility for trimming and clipping YouTube videos into single or multiple… ▲ 97 · [VibeKing](https://vibeking.fun/product/5251)
@@ -263,15 +263,15 @@ Every listed URL is re-probed on a schedule, and the source API publishes the re
 
 - [Veo 3.2](https://veo3-2.app/) — Veo 3.2 is a web-based AI video generation platform that leverages the Artemis engine to convert text and… ▲ 548 · [VibeKing](https://vibeking.fun/product/4634)
 - [Higgsfield](https://higgsfield.ai/) — Create motion images in a single prompt in an editing canvas. ▲ 538 · [VibeKing](https://vibeking.fun/product/2888)
-- [Glam AI](https://glam.ai/) — Pick a trend, add your photo, and create viral content. ▲ 244 · [VibeKing](https://vibeking.fun/product/2746)
+- [Glam AI](https://glam.ai/) — Pick a trend, add your photo, and create viral content. ▲ 248 · [VibeKing](https://vibeking.fun/product/2746)
 - [Velo](https://www.usevelo.ai/) — Share anything as video messages. ▲ 229 · [VibeKing](https://vibeking.fun/product/2725)
 - [Vozo AI — Video localization](https://www.vozo.ai/) — Translate text in your videos without recreating visuals. ▲ 173 · [VibeKing](https://vibeking.fun/product/2719)
 - [EditWithAva](https://editwithava.com/) — Your AI assistant video editor. ▲ 153 · [VibeKing](https://vibeking.fun/product/2831)
-- [BACH 1.0](https://www.bach1.org/) — BACH 1.0 provides a web-based platform for converting text prompts into high-definition 1080p video at 30fps… ▲ 115 · [VibeKing](https://vibeking.fun/product/4936)
+- [BACH 1.0](https://www.bach1.org/) — BACH 1.0 provides a web-based platform for converting text prompts into high-definition 1080p video at 30fps… ▲ 116 · [VibeKing](https://vibeking.fun/product/4936)
 - [Virality Predictor](https://viralitypredictor.net/) — Virality Predictor is a web-based analytics tool that provides pre-publication video engagement scores and… ▲ 103 · [VibeKing](https://vibeking.fun/product/4983)
 - [riffle](https://www.riffle.studio/) — An infinite, collaborative playground for music creation. ▲ 101 · [VibeKing](https://vibeking.fun/product/2875)
 - [Translate-Dub.com](https://translate-dub.com/) — Translate-Dub.com is a web-based utility for generating AI-powered dubbing and captions across multiple… ▲ 101 · [VibeKing](https://vibeking.fun/product/4658)
-- [DriveBeats](https://www.drivebeats.app/) — DriveBeats is a free web and mobile music player that categorizes cloud storage as a media server by… ▲ 98 · [VibeKing](https://vibeking.fun/product/5124)
+- [DriveBeats](https://www.drivebeats.app/) — DriveBeats is a free web and mobile music player that categorizes cloud storage as a media server by… ▲ 99 · [VibeKing](https://vibeking.fun/product/5124)
 - [TravelAnimator](https://www.travelanimator.com/) — Turn Google Maps URLs into stunning map animations. ▲ 96 · [VibeKing](https://vibeking.fun/product/2758)
 - [Cresstudio](https://cresstudio.com/) — Cresstudio is a web-based video tool that automates the generation of artificial intelligence captions for… ▲ 94 · [VibeKing](https://vibeking.fun/product/4526)
 - [Noiz AI](https://noiz.ai/landing) — Crack an Easter egg to generate an AI voice. ▲ 93 · [VibeKing](https://vibeking.fun/product/2773)
@@ -287,14 +287,14 @@ Every listed URL is re-probed on a schedule, and the source API publishes the re
 - [Dyroll](https://dyroll.com/) — Everything you need to create & run your campaign. ▲ 102 · [VibeKing](https://vibeking.fun/product/4196)
 - [FutureStack](https://www.usefuturestack.com/) — The community-curated AI Tools Directory. Ranked by users. ▲ 88 · [VibeKing](https://vibeking.fun/product/3092)
 - [FinTap](https://fintap.choicenownet.site/) — FinTap - Immersive 3D Multiplayer Virtual Aquarium. ▲ 87 · [VibeKing](https://vibeking.fun/product/3786)
-- [palt Journal](https://journal.palt.tech/welcome) — A private reading journal for reflective readers. ▲ 85 · [VibeKing](https://vibeking.fun/product/3817)
+- [palt Journal](https://journal.palt.tech/welcome) — A private reading journal for reflective readers. ▲ 86 · [VibeKing](https://vibeking.fun/product/3817)
 - [urgentjobscolombo](https://urgentjobscolombo.com/) — Real jobs in Colombo with upfront salaries. Browse urgent va. ▲ 77 · [VibeKing](https://vibeking.fun/product/3468)
 - [SailWP](https://sailwp.com/) — WordPress without the weight. ▲ 75 · [VibeKing](https://vibeking.fun/product/3837)
 - [Verv](https://verv.dev/) — Where builders build in public. ▲ 75 · [VibeKing](https://vibeking.fun/product/3848)
 - [BrewLedger](https://getbrewledger.com/) — A Brewery Management Platform saving brewers time and money. ▲ 73 · [VibeKing](https://vibeking.fun/product/3130)
+- [Hive Index](https://thehiveindex.com/) — Top online community guide. ▲ 72 · [VibeKing](https://vibeking.fun/product/3498)
 - [Kit](https://www.kit-app.co/) — an intelligent gear focused web app. ▲ 72 · [VibeKing](https://vibeking.fun/product/4002)
 - [Shenora](https://shenora.vercel.app/) — No-code portfolio generator. ▲ 70 · [VibeKing](https://vibeking.fun/product/3844)
-- [Hive Index](https://thehiveindex.com/) — Top online community guide. ▲ 68 · [VibeKing](https://vibeking.fun/product/3498)
 - [Ergod](https://ergod.dev/) — Agentic AI Discord Bot - 1 Click Invite. ▲ 68 · [VibeKing](https://vibeking.fun/product/4089)
 
 *…and 25 more in [Community on VibeKing](https://vibeking.fun/best).*
@@ -306,9 +306,9 @@ Every listed URL is re-probed on a schedule, and the source API publishes the re
 - [Scooby Doo Pinball Machine](https://mojopinballlimited.com/shop/scooby-doo-pinball-machine-for-sale/) — Scooby Doo Pinball Machine offers a selection of arcade gaming units available through an e-commerce platform… ▲ 97 · [VibeKing](https://vibeking.fun/product/5128)
 - [Bernibets](https://bets.bernikins.com/) — Bernibets provides a free web and mobile platform for social group predictions, enabling competitive… ▲ 88 · [VibeKing](https://vibeking.fun/product/4939)
 - [ARC Raiders Toolbox](https://arcraiders.website/) — ARC Raiders Toolbox provides a centralized web-based knowledge base for gamers to manage in-game resources… ▲ 82 · [VibeKing](https://vibeking.fun/product/4726)
-- [Euphoria](https://www.euphoriainv.com/) — Euphoria is a web-based financial education platform designed for building trading skills through interactive… ▲ 73 · [VibeKing](https://vibeking.fun/product/4981)
+- [Euphoria](https://www.euphoriainv.com/) — Euphoria is a web-based financial education platform designed for building trading skills through interactive… ▲ 74 · [VibeKing](https://vibeking.fun/product/4981)
 - [Deadlock Build Planner & Calculator](https://www.deadlockcalc.com/) — This web-based gaming tool enables performance optimization for Deadlock through real-time mathematical… ▲ 72 · [VibeKing](https://vibeking.fun/product/4633)
-- [Amara](https://amara.01c.ai/) — Imagine, create and iterate 3D environments instantly. ▲ 67 · [VibeKing](https://vibeking.fun/product/2876)
+- [Amara](https://amara.01c.ai/) — Imagine, create and iterate 3D environments instantly. ▲ 70 · [VibeKing](https://vibeking.fun/product/2876)
 - [The Trivia Daily](https://apps.apple.com/us/app/ai-news-quiz-the-trivia-daily/id6759505613?pt=18415&ct=peerpush&mt=8) — The Trivia Daily provides a mobile-based casual gaming experience that combines daily news consumption with… ▲ 66 · [VibeKing](https://vibeking.fun/product/4491)
 - [Unscramble It](https://unscrambleit.net/) — This web-based tool provides a free utility for gamers and students to resolve letter-jumbling puzzles. It… ▲ 66 · [VibeKing](https://vibeking.fun/product/4567)
 - [lofi.town](https://lofi.town/) — A cozy productivity app to focus with others + vibe to lofi. ▲ 63 · [VibeKing](https://vibeking.fun/product/3062)
@@ -325,16 +325,16 @@ Every listed URL is re-probed on a schedule, and the source API publishes the re
 - [DetailGo](https://detailgo.online/) — DetailGo operates as a web-based marketplace connecting car owners with professional auto detailers to manage… ▲ 231 · [VibeKing](https://vibeking.fun/product/5106)
 - [FileKit QR Code Generator](https://qr.filekit.eu/) — FileKit QR Code Generator provides a web-based design tool for creating print-ready dynamic QR codes with… ▲ 224 · [VibeKing](https://vibeking.fun/product/5095)
 - [Your Next Store](https://yournextstore.com/) — AI-first platform for building commerce stores, fast. ▲ 215 · [VibeKing](https://vibeking.fun/product/2820)
-- [Easy Ship to China \| Expengyun](https://www.expengyun.com/) — Expengyun provides a web-based international transshipment platform facilitating toC direct mail services… ▲ 115 · [VibeKing](https://vibeking.fun/product/5006)
+- [Easy Ship to China \| Expengyun](https://www.expengyun.com/) — Expengyun provides a web-based international transshipment platform facilitating toC direct mail services… ▲ 116 · [VibeKing](https://vibeking.fun/product/5006)
 - [Ele Straps](https://elestraps.com/) — Ele Straps provides a specialized e-commerce platform for sourcing watch bands across various materials… ▲ 103 · [VibeKing](https://vibeking.fun/product/4900)
 - [Ecom Calc Tools](https://ecomcalctools.com/) — Ecom Calc Tools provides a web and mobile-based suite of financial calculators for tracking critical business… ▲ 98 · [VibeKing](https://vibeking.fun/product/4876)
-- [Genstore.ai](https://www.genstore.ai/) — Test, iterate, and launch an agentic storefront in minutes. ▲ 82 · [VibeKing](https://vibeking.fun/product/2818)
+- [Genstore.ai](https://www.genstore.ai/) — Test, iterate, and launch an agentic storefront in minutes. ▲ 86 · [VibeKing](https://vibeking.fun/product/2818)
+- [KREV](https://www.krev.ai/) — AI creative agents for ecommerce brands. ▲ 80 · [VibeKing](https://vibeking.fun/product/2923)
 - [Lasso](https://productlasso.com/en) — A new kind of PIM for eCommerce. Built for the AI era. ▲ 79 · [VibeKing](https://vibeking.fun/product/3080)
 - [Avetlist](https://www.avetlist.com/) — Avetlist provides a web-based directory of over 21,000 vetted USA wholesale distributors categorized by state… ▲ 75 · [VibeKing](https://vibeking.fun/product/4916)
-- [KREV](https://www.krev.ai/) — AI creative agents for ecommerce brands. ▲ 69 · [VibeKing](https://vibeking.fun/product/2923)
 - [AppStacked](https://www.appstacked.io/) — AppStacked is a web-based directory tailored for e-commerce operators to evaluate Shopify integrations… ▲ 66 · [VibeKing](https://vibeking.fun/product/4715)
 - [ANOKHI Taschen](https://www.anokhi-collection.com/) — ANOKHI Taschen is a Munich-based web platform offering high-quality Boho-style handbags through a direct… ▲ 62 · [VibeKing](https://vibeking.fun/product/4730)
-- [MuleRun](https://mulerun.com/) — Raise an AI that actually learns how you work. ▲ 53 · [VibeKing](https://vibeking.fun/product/2737)
+- [MuleRun](https://mulerun.com/) — Raise an AI that actually learns how you work. ▲ 56 · [VibeKing](https://vibeking.fun/product/2737)
 - [Bange Store](https://bangeofficialstore.com/) — Bange Store is a specialized e-commerce platform offering durable, technical travel gear for security and… ▲ 47 · [VibeKing](https://vibeking.fun/product/4897)
 
 ## Lifestyle
