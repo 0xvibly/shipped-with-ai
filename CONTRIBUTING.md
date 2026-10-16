@@ -7,8 +7,8 @@ Thanks for your interest! This list works a little differently from most awesome
 Don't open a PR against `README.md` — submit the app to the directory instead:
 
 1. Go to [vibeking.fun/submit](https://vibeking.fun/submit)
-2. Submit your app (free; approved listings get community upvotes and an embeddable badge — put the badge on your own site and your listing's outbound link becomes a followed link, see [Verified Makers](https://vibeking.fun/verified))
-3. Once approved and upvoted into a category's top 15, it appears here automatically on the next daily sync
+2. Submit your app: **free** (a 14-day free queue, then it goes live once the VibeKing badge is on your site, with a followed link while the badge stays up, see [Verified Makers](https://vibeking.fun/verified)) or **Fast Track** ($29 one-time, live instantly, no badge)
+3. Once it is live and upvoted into a category's top 15, it appears here automatically on the next daily sync
 
 The generator reads the directory through its free public API — [docs](https://vibeking.fun/api), [reference repo](https://github.com/0xvibly/vibeking-api).
 
