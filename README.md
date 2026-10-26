@@ -15,9 +15,9 @@ This README is a daily snapshot. The live directory has search, category filters
 
 ## How this list is built
 
-This file is **regenerated every day by [GitHub Actions](.github/workflows/update.yml)**, straight from the live [vibeking.fun](https://vibeking.fun) directory via its free public API (`GET /api/products`, no key, CORS enabled — see [the docs](https://vibeking.fun/api) or the [vibeking-api](https://github.com/0xvibly/vibeking-api) repo). Nothing here is hand-curated, so it never goes stale: **2,638 products** across **16 categories**, each section showing the top 15 by community upvotes. Last updated 2026-10-25.
+This file is **regenerated every day by [GitHub Actions](.github/workflows/update.yml)**, straight from the live [vibeking.fun](https://vibeking.fun) directory via its free public API (`GET /api/products`, no key, CORS enabled — see [the docs](https://vibeking.fun/api) or the [vibeking-api](https://github.com/0xvibly/vibeking-api) repo). Nothing here is hand-curated, so it never goes stale: **2,638 products** across **16 categories**, each section showing the top 15 by community upvotes. Last updated 2026-10-26.
 
-Every listed URL is re-probed on a schedule, and the source API publishes the result: **2,353 confirmed live**, 66 at risk, 219 dead, 0 not yet checked. Most directories never tell you how much of their index has rotted.
+Every listed URL is re-probed on a schedule, and the source API publishes the result: **2,348 confirmed live**, 68 at risk, 222 dead, 0 not yet checked. Most directories never tell you how much of their index has rotted.
 
 ## Contents
 
@@ -61,10 +61,11 @@ Every listed URL is re-probed on a schedule, and the source API publishes the re
 
 ## Dev Tools
 
-- [Minimalist Screens](https://minimalistscreens.com) — All-in-one ASO platform for mobile apps. ▲ 7 · [VibeKing](https://vibeking.fun/product/5358)
+- [Minimalist Screens](https://minimalistscreens.com) — All-in-one ASO platform for mobile apps. ▲ 8 · [VibeKing](https://vibeking.fun/product/5358)
 - [Ezier AI](https://ezier.ai/) — Generates AI images, videos, and audio. ▲ 4 · [VibeKing](https://vibeking.fun/product/5272)
 - [Seedance 2.5](https://seedance25ai.cc/) — Generates 30-second AI videos from text, images, audio, or video. ▲ 2 · [VibeKing](https://vibeking.fun/product/5270)
 - [Motion Control AI](https://motion-control-ai.net/) — Transfers motion from reference video to character image. ▲ 2 · [VibeKing](https://vibeking.fun/product/5275)
+- [Sidebox](https://sidebox.dev) — Multi-project dashboard for indie developers. ▲ 2 · [VibeKing](https://vibeking.fun/product/5376)
 - [Solvea](https://solvea.cx/) — Create your AI receptionist that answers, books, and sells. ▲ 1 · [VibeKing](https://vibeking.fun/product/2972)
 - [MCP Bridge by Appfactor](https://mcp-bridge.ai/) — Connect any API to any AI agent. ▲ 1 · [VibeKing](https://vibeking.fun/product/3002)
 - [Gemini 3.1 Flash-Lite](https://cloud.google.com/blog/products/ai-machine-learning/gemini-3-1-flash-lite-is-now-generally-available) — Lightweight Gemini model for high-volume AI pipelines. ▲ 1 · [VibeKing](https://vibeking.fun/product/3046)
@@ -75,13 +76,14 @@ Every listed URL is re-probed on a schedule, and the source API publishes the re
 - [Scientific Figure](https://scientificfigure.com/) — Generates publication-ready scientific figures with AI. ▲ 1 · [VibeKing](https://vibeking.fun/product/5292)
 - [LaunchLanes](https://launchlanes.io) — Develops SaaS MVPs and mobile apps. ▲ 1 · [VibeKing](https://vibeking.fun/product/5296)
 - [Qevra $1 Discord Bot Blueprint](https://qevra.app/) — Build controllable Discord bots with AI coding. ▲ 1 · [VibeKing](https://vibeking.fun/product/5303)
-- [HTMLtoURL Pro](https://htmltourl.pro) — Turn HTML into a shareable public URL instantly. ▲ 1 · [VibeKing](https://vibeking.fun/product/5319)
 
 *…and 394 more in [Dev Tools on VibeKing](https://vibeking.fun/best).*
 
 ## Marketing
 
 - [LinkedIn Text Formatter](https://socialtexttools.net/) — Styles LinkedIn posts, profiles, comments, and messages with Unicode text, preview, and copy. ▲ 2 · [VibeKing](https://vibeking.fun/product/5279)
+- [Page Pulse](https://getpagepulse.io) — Site analytics that finally feel simple. ▲ 2 · [VibeKing](https://vibeking.fun/product/5359)
+- [SEOO.tools](https://www.seoo.tools) — Free SEO skills for your AI agent, from workflows that grew a real site from zero. ▲ 2 · [VibeKing](https://vibeking.fun/product/5401)
 - [TechFusion Gear](https://techfusiongear.com/) — TechFusionGear helps businesses grow with custom websites, m. ▲ 1 · [VibeKing](https://vibeking.fun/product/3675)
 - [tea checker app](https://teacheckerapp.com/) — Instant Tea profile search with an anonymous 30-second risk check. ▲ 1 · [VibeKing](https://vibeking.fun/product/4038)
 - [whygoai](https://whygoai.pro/) — Don't Lose Customers. Understand Them. ▲ 1 · [VibeKing](https://vibeking.fun/product/4224)
@@ -89,8 +91,6 @@ Every listed URL is re-probed on a schedule, and the source API publishes the re
 - [NextBrand](https://www.nextbrand.com/) — Business name generator and domain marketplace. ▲ 1 · [VibeKing](https://vibeking.fun/product/5305)
 - [VisualLift](https://www.visuallift.ai/) — AI media hub for your e-commerce store. ▲ 1 · [VibeKing](https://vibeking.fun/product/5306)
 - [LaunchBert](https://launchbert.com) — Your product deserves to be found. Let's launch it! ▲ 1 · [VibeKing](https://vibeking.fun/product/5323)
-- [Page Pulse](https://getpagepulse.io) — Site analytics that finally feel simple. ▲ 1 · [VibeKing](https://vibeking.fun/product/5359)
-- [SEOO.tools](https://www.seoo.tools) — Free SEO skills for your AI agent, from workflows that grew a real site from zero. ▲ 1 · [VibeKing](https://vibeking.fun/product/5401)
 - [SuperX](https://superx.so/) — All-in-one growth OS for serious 𝕏 creators. ▲ 0 · [VibeKing](https://vibeking.fun/product/2713)
 - [Lightfield](https://lightfield.app/) — AI-native CRM that builds itself and does work for you. ▲ 0 · [VibeKing](https://vibeking.fun/product/2714)
 - [ProdShort](https://prodshort.com/) — Turn meetings into ready-to-post shorts and posts. ▲ 0 · [VibeKing](https://vibeking.fun/product/2721)
@@ -121,7 +121,8 @@ Every listed URL is re-probed on a schedule, and the source API publishes the re
 
 ## Productivity
 
-- [Strokara](https://strokara.com) — Draw or write on any photo, replay every stroke — inspired by Samsung's Live Message. ▲ 5 · [VibeKing](https://vibeking.fun/product/5405)
+- [Strokara](https://strokara.com) — Draw or write on any photo, replay every stroke — inspired by Samsung's Live Message. ▲ 6 · [VibeKing](https://vibeking.fun/product/5405)
+- [Voyager](https://voyager.fm) — Put agents where the work is. ▲ 2 · [VibeKing](https://vibeking.fun/product/5367)
 - [AI Content Shield](https://www.aicontentshield.app/) — AI Content Blocker for YouTube, Social Feeds & Google. ▲ 1 · [VibeKing](https://vibeking.fun/product/3362)
 - [Shrimp Tank](https://shrimptank.app/) — Aquarium app for shrimp keepers. ▲ 1 · [VibeKing](https://vibeking.fun/product/3424)
 - [BandMate](https://www.bandmatemusic.com/) — BandMate is a free cross-platform utility that synchronizes song management, chord visualization, and setlist… ▲ 1 · [VibeKing](https://vibeking.fun/product/4896)
@@ -130,7 +131,6 @@ Every listed URL is re-probed on a schedule, and the source API publishes the re
 - [How to Learn English Fast](https://howtolearnenglishfast.com/) — Achieve English Fluency Faster with a Course Made for You. ▲ 1 · [VibeKing](https://vibeking.fun/product/5281)
 - [Threadly](https://usethreadly.co) — Find and manage online conversations. ▲ 1 · [VibeKing](https://vibeking.fun/product/5295)
 - [GPT Transcribe](https://gpt-transcribe.im) — Transcribe audio and video with speaker labels in the browser. ▲ 1 · [VibeKing](https://vibeking.fun/product/5317)
-- [Voyager](https://voyager.fm) — Put agents where the work is. ▲ 1 · [VibeKing](https://vibeking.fun/product/5367)
 - [Bond](https://www.bondapp.io/) — The AI to-do list that does itself. ▲ 0 · [VibeKing](https://vibeking.fun/product/2722)
 - [ProductBridge](https://productbridge.io/) — Agent that collects feedback across multiple platforms. ▲ 0 · [VibeKing](https://vibeking.fun/product/2752)
 - [kuku](https://kuku.mom/) — Obsidian — but a lot has changed. ▲ 0 · [VibeKing](https://vibeking.fun/product/2757)
@@ -201,8 +201,8 @@ Every listed URL is re-probed on a schedule, and the source API publishes the re
 
 ## Education
 
+- [GuidedTours](https://guidedtours.app) — Self-guided audio tours that bring cities to life as you explore, at your own pace. ▲ 2 · [VibeKing](https://vibeking.fun/product/5391)
 - [Frizzle](https://frizzle.com/) — AI grades math photos for 97% accurate analytics. ▲ 1 · [VibeKing](https://vibeking.fun/product/4057)
-- [GuidedTours](https://guidedtours.app) — Self-guided audio tours that bring cities to life as you explore, at your own pace. ▲ 1 · [VibeKing](https://vibeking.fun/product/5391)
 - [Qconcursos](https://qconcursos.com) — Ed-tech rebuilt by 2 devs instead of 30. ▲ 0 · [VibeKing](https://vibeking.fun/product/2710)
 - [Honen](https://honen.com/) — Automated teaching + learning infrastructure for any company. ▲ 0 · [VibeKing](https://vibeking.fun/product/2753)
 - [ChatPal](http://chatpal.chat/) — Practice speaking, get fluent! ▲ 0 · [VibeKing](https://vibeking.fun/product/2798)
@@ -301,7 +301,7 @@ Every listed URL is re-probed on a schedule, and the source API publishes the re
 
 ## Game
 
-- [Grand Theft Meowto](https://pawpetit.com) — Play as a cat in a 3D city. ▲ 1 · [VibeKing](https://vibeking.fun/product/5352)
+- [Grand Theft Meowto](https://pawpetit.com) — Play as a cat in a 3D city. ▲ 2 · [VibeKing](https://vibeking.fun/product/5352)
 - [Fly](https://fly.pieter.com) — Browser flight sim — $87K/month in 17 days. ▲ 0 · [VibeKing](https://vibeking.fun/product/2700)
 - [VibeSail](https://vibesail.com) — Multiplayer sailing sim — $8K MRR. ▲ 0 · [VibeKing](https://vibeking.fun/product/2704)
 - [Show Me a Leaderboard](https://showmealeaderboard.com/) — Use friendly competition to build and strengthen community. ▲ 0 · [VibeKing](https://vibeking.fun/product/2828)
