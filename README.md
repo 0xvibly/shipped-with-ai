@@ -15,9 +15,9 @@ This README is a daily snapshot. The live directory has search, category filters
 
 ## How this list is built
 
-This file is **regenerated every day by [GitHub Actions](.github/workflows/update.yml)**, straight from the live [vibeking.fun](https://vibeking.fun) directory via its free public API (`GET /api/products`, no key, CORS enabled — see [the docs](https://vibeking.fun/api) or the [vibeking-api](https://github.com/0xvibly/vibeking-api) repo). Nothing here is hand-curated, so it never goes stale: **2,638 products** across **16 categories**, each section showing the top 15 by community upvotes. Last updated 2026-10-27.
+This file is **regenerated every day by [GitHub Actions](.github/workflows/update.yml)**, straight from the live [vibeking.fun](https://vibeking.fun) directory via its free public API (`GET /api/products`, no key, CORS enabled — see [the docs](https://vibeking.fun/api) or the [vibeking-api](https://github.com/0xvibly/vibeking-api) repo). Nothing here is hand-curated, so it never goes stale: **2,638 products** across **16 categories**, each section showing the top 15 by community upvotes. Last updated 2026-10-28.
 
-Every listed URL is re-probed on a schedule, and the source API publishes the result: **2,353 confirmed live**, 57 at risk, 228 dead, 0 not yet checked. Most directories never tell you how much of their index has rotted.
+Every listed URL is re-probed on a schedule, and the source API publishes the result: **2,355 confirmed live**, 55 at risk, 228 dead, 0 not yet checked. Most directories never tell you how much of their index has rotted.
 
 ## Contents
 
