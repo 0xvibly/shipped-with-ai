@@ -4,7 +4,7 @@
 
 ### ➜ Full searchable directory: **[vibeking.fun](https://vibeking.fun)**
 
-This README is a daily snapshot. The live directory has search, category filters, upvoting, maker profiles and every one of the 2,639 products — this file only shows the top 15 per category.
+This README is a daily snapshot. The live directory has search, category filters, upvoting, maker profiles and every one of the 2,641 products — this file only shows the top 15 per category.
 
 | | |
 |---|---|
@@ -15,20 +15,20 @@ This README is a daily snapshot. The live directory has search, category filters
 
 ## How this list is built
 
-This file is **regenerated every day by [GitHub Actions](.github/workflows/update.yml)**, straight from the live [vibeking.fun](https://vibeking.fun) directory via its free public API (`GET /api/products`, no key, CORS enabled — see [the docs](https://vibeking.fun/api) or the [vibeking-api](https://github.com/0xvibly/vibeking-api) repo). Nothing here is hand-curated, so it never goes stale: **2,639 products** across **16 categories**, each section showing the top 15 by community upvotes. Last updated 2026-11-03.
+This file is **regenerated every day by [GitHub Actions](.github/workflows/update.yml)**, straight from the live [vibeking.fun](https://vibeking.fun) directory via its free public API (`GET /api/products`, no key, CORS enabled — see [the docs](https://vibeking.fun/api) or the [vibeking-api](https://github.com/0xvibly/vibeking-api) repo). Nothing here is hand-curated, so it never goes stale: **2,641 products** across **16 categories**, each section showing the top 15 by community upvotes. Last updated 2026-11-04.
 
-Every listed URL is re-probed on a schedule, and the source API publishes the result: **2,372 confirmed live**, 31 at risk, 236 dead, 0 not yet checked. Most directories never tell you how much of their index has rotted.
+Every listed URL is re-probed on a schedule, and the source API publishes the result: **2,375 confirmed live**, 31 at risk, 235 dead, 0 not yet checked. Most directories never tell you how much of their index has rotted.
 
 ## Contents
 
 - [AI Coding](#ai-coding) (691)
 - [Dev Tools](#dev-tools) (410)
 - [Marketing](#marketing) (327)
-- [SaaS](#saas) (240)
+- [SaaS](#saas) (241)
 - [Productivity](#productivity) (183)
 - [Design](#design) (165)
 - [Other](#other) (123)
-- [Fintech](#fintech) (111)
+- [Fintech](#fintech) (112)
 - [Education](#education) (104)
 - [Health](#health) (85)
 - [Search](#search) (63)
@@ -117,7 +117,7 @@ Every listed URL is re-probed on a schedule, and the source API publishes the re
 - [Chadform](https://chadform.com) — AI forms that adapt to each user. ▲ 0 · [VibeKing](https://vibeking.fun/product/2708)
 - [Disko](https://disko.is) — SMS messaging service — $11K MRR. ▲ 0 · [VibeKing](https://vibeking.fun/product/2709)
 
-*…and 225 more in [SaaS on VibeKing](https://vibeking.fun/best).*
+*…and 226 more in [SaaS on VibeKing](https://vibeking.fun/best).*
 
 ## Productivity
 
@@ -197,7 +197,7 @@ Every listed URL is re-probed on a schedule, and the source API publishes the re
 - [Assetly Bar](https://www.assetlybar.com/) — Real-time stocks & crypto tracker for macOS menu bar. ▲ 0 · [VibeKing](https://vibeking.fun/product/3189)
 - [Mainplate](https://mainplate.jacopocaggiano.com/) — Watch enthusiast and professional all-in-one app. ▲ 0 · [VibeKing](https://vibeking.fun/product/3200)
 
-*…and 96 more in [Fintech on VibeKing](https://vibeking.fun/best).*
+*…and 97 more in [Fintech on VibeKing](https://vibeking.fun/best).*
 
 ## Education
 
