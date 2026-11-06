@@ -15,9 +15,9 @@ This README is a daily snapshot. The live directory has search, category filters
 
 ## How this list is built
 
-This file is **regenerated every day by [GitHub Actions](.github/workflows/update.yml)**, straight from the live [vibeking.fun](https://vibeking.fun) directory via its free public API (`GET /api/products`, no key, CORS enabled — see [the docs](https://vibeking.fun/api) or the [vibeking-api](https://github.com/0xvibly/vibeking-api) repo). Nothing here is hand-curated, so it never goes stale: **2,641 products** across **16 categories**, each section showing the top 15 by community upvotes. Last updated 2026-11-05.
+This file is **regenerated every day by [GitHub Actions](.github/workflows/update.yml)**, straight from the live [vibeking.fun](https://vibeking.fun) directory via its free public API (`GET /api/products`, no key, CORS enabled — see [the docs](https://vibeking.fun/api) or the [vibeking-api](https://github.com/0xvibly/vibeking-api) repo). Nothing here is hand-curated, so it never goes stale: **2,641 products** across **16 categories**, each section showing the top 15 by community upvotes. Last updated 2026-11-06.
 
-Every listed URL is re-probed on a schedule, and the source API publishes the result: **2,366 confirmed live**, 38 at risk, 237 dead, 0 not yet checked. Most directories never tell you how much of their index has rotted.
+Every listed URL is re-probed on a schedule, and the source API publishes the result: **2,364 confirmed live**, 37 at risk, 240 dead, 0 not yet checked. Most directories never tell you how much of their index has rotted.
 
 ## Contents
 
@@ -301,7 +301,7 @@ Every listed URL is re-probed on a schedule, and the source API publishes the re
 
 ## Game
 
-- [Grand Theft Meowto](https://pawpetit.com) — Play as a cat in a 3D city. ▲ 2 · [VibeKing](https://vibeking.fun/product/5352)
+- [Meow City](https://pawpetit.com) — Play as a cat in a 3D city. ▲ 2 · [VibeKing](https://vibeking.fun/product/5352)
 - [Fly](https://fly.pieter.com) — Browser flight sim — $87K/month in 17 days. ▲ 0 · [VibeKing](https://vibeking.fun/product/2700)
 - [VibeSail](https://vibesail.com) — Multiplayer sailing sim — $8K MRR. ▲ 0 · [VibeKing](https://vibeking.fun/product/2704)
 - [Show Me a Leaderboard](https://showmealeaderboard.com/) — Use friendly competition to build and strengthen community. ▲ 0 · [VibeKing](https://vibeking.fun/product/2828)
