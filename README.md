@@ -15,9 +15,9 @@ This README is a daily snapshot. The live directory has search, category filters
 
 ## How this list is built
 
-This file is **regenerated every day by [GitHub Actions](.github/workflows/update.yml)**, straight from the live [vibeking.fun](https://vibeking.fun) directory via its free public API (`GET /api/products`, no key, CORS enabled — see [the docs](https://vibeking.fun/api) or the [vibeking-api](https://github.com/0xvibly/vibeking-api) repo). Nothing here is hand-curated, so it never goes stale: **2,641 products** across **16 categories**, each section showing the top 15 by community upvotes. Last updated 2026-11-09.
+This file is **regenerated every day by [GitHub Actions](.github/workflows/update.yml)**, straight from the live [vibeking.fun](https://vibeking.fun) directory via its free public API (`GET /api/products`, no key, CORS enabled — see [the docs](https://vibeking.fun/api) or the [vibeking-api](https://github.com/0xvibly/vibeking-api) repo). Nothing here is hand-curated, so it never goes stale: **2,641 products** across **16 categories**, each section showing the top 15 by community upvotes. Last updated 2026-11-10.
 
-Every listed URL is re-probed on a schedule, and the source API publishes the result: **2,361 confirmed live**, 37 at risk, 243 dead, 0 not yet checked. Most directories never tell you how much of their index has rotted.
+Every listed URL is re-probed on a schedule, and the source API publishes the result: **2,365 confirmed live**, 35 at risk, 241 dead, 0 not yet checked. Most directories never tell you how much of their index has rotted.
 
 ## Contents
 
@@ -61,7 +61,7 @@ Every listed URL is re-probed on a schedule, and the source API publishes the re
 
 ## Dev Tools
 
-- [Minimalist Screens](https://minimalistscreens.com) — All-in-one ASO platform for mobile apps. ▲ 8 · [VibeKing](https://vibeking.fun/product/5358)
+- [Minimalist Screens](https://minimalistscreens.com) — All-in-one ASO platform for mobile apps. ▲ 9 · [VibeKing](https://vibeking.fun/product/5358)
 - [Ezier AI](https://ezier.ai/) — Generates AI images, videos, and audio. ▲ 4 · [VibeKing](https://vibeking.fun/product/5272)
 - [Seedance 2.5](https://seedance25ai.cc/) — Generates 30-second AI videos from text, images, audio, or video. ▲ 2 · [VibeKing](https://vibeking.fun/product/5270)
 - [Motion Control AI](https://motion-control-ai.net/) — Transfers motion from reference video to character image. ▲ 2 · [VibeKing](https://vibeking.fun/product/5275)
@@ -121,7 +121,7 @@ Every listed URL is re-probed on a schedule, and the source API publishes the re
 
 ## Productivity
 
-- [Strokara](https://strokara.com) — Draw or write on any photo, replay every stroke — inspired by Samsung's Live Message. ▲ 6 · [VibeKing](https://vibeking.fun/product/5405)
+- [Strokara](https://strokara.com) — Draw or write on any photo, replay every stroke — inspired by Samsung's Live Message. ▲ 7 · [VibeKing](https://vibeking.fun/product/5405)
 - [Voyager](https://voyager.fm) — Put agents where the work is. ▲ 2 · [VibeKing](https://vibeking.fun/product/5367)
 - [AI Content Shield](https://www.aicontentshield.app/) — AI Content Blocker for YouTube, Social Feeds & Google. ▲ 1 · [VibeKing](https://vibeking.fun/product/3362)
 - [Shrimp Tank](https://shrimptank.app/) — Aquarium app for shrimp keepers. ▲ 1 · [VibeKing](https://vibeking.fun/product/3424)
