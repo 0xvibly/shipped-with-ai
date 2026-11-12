@@ -4,7 +4,7 @@
 
 ### ➜ Full searchable directory: **[vibeking.fun](https://vibeking.fun)**
 
-This README is a daily snapshot. The live directory has search, category filters, upvoting, maker profiles and every one of the 2,641 products — this file only shows the top 15 per category.
+This README is a daily snapshot. The live directory has search, category filters, upvoting, maker profiles and every one of the 2,642 products — this file only shows the top 15 per category.
 
 | | |
 |---|---|
@@ -15,15 +15,15 @@ This README is a daily snapshot. The live directory has search, category filters
 
 ## How this list is built
 
-This file is **regenerated every day by [GitHub Actions](.github/workflows/update.yml)**, straight from the live [vibeking.fun](https://vibeking.fun) directory via its free public API (`GET /api/products`, no key, CORS enabled — see [the docs](https://vibeking.fun/api) or the [vibeking-api](https://github.com/0xvibly/vibeking-api) repo). Nothing here is hand-curated, so it never goes stale: **2,641 products** across **16 categories**, each section showing the top 15 by community upvotes. Last updated 2026-11-11.
+This file is **regenerated every day by [GitHub Actions](.github/workflows/update.yml)**, straight from the live [vibeking.fun](https://vibeking.fun) directory via its free public API (`GET /api/products`, no key, CORS enabled — see [the docs](https://vibeking.fun/api) or the [vibeking-api](https://github.com/0xvibly/vibeking-api) repo). Nothing here is hand-curated, so it never goes stale: **2,642 products** across **16 categories**, each section showing the top 15 by community upvotes. Last updated 2026-11-12.
 
-Every listed URL is re-probed on a schedule, and the source API publishes the result: **2,363 confirmed live**, 36 at risk, 242 dead, 0 not yet checked. Most directories never tell you how much of their index has rotted.
+Every listed URL is re-probed on a schedule, and the source API publishes the result: **2,357 confirmed live**, 40 at risk, 245 dead, 0 not yet checked. Most directories never tell you how much of their index has rotted.
 
 ## Contents
 
 - [AI Coding](#ai-coding) (691)
 - [Dev Tools](#dev-tools) (410)
-- [Marketing](#marketing) (327)
+- [Marketing](#marketing) (328)
 - [SaaS](#saas) (241)
 - [Productivity](#productivity) (183)
 - [Design](#design) (165)
@@ -97,7 +97,7 @@ Every listed URL is re-probed on a schedule, and the source API publishes the re
 - [Naoma AI Demo Agent](https://naoma.ai/) — The video AI demo agent for B2B SaaS for immediate demos. ▲ 0 · [VibeKing](https://vibeking.fun/product/2731)
 - [own.page](https://own.page/) — Make your own personal website with bento tiles. ▲ 0 · [VibeKing](https://vibeking.fun/product/2732)
 
-*…and 312 more in [Marketing on VibeKing](https://vibeking.fun/best).*
+*…and 313 more in [Marketing on VibeKing](https://vibeking.fun/best).*
 
 ## SaaS
 
@@ -301,7 +301,7 @@ Every listed URL is re-probed on a schedule, and the source API publishes the re
 
 ## Game
 
-- [Meow City](https://pawpetit.com) — Play as a cat in a 3D city. ▲ 2 · [VibeKing](https://vibeking.fun/product/5352)
+- [Meow City](https://pawpetit.com) — Play as a cat in a 3D city. ▲ 3 · [VibeKing](https://vibeking.fun/product/5352)
 - [Fly](https://fly.pieter.com) — Browser flight sim — $87K/month in 17 days. ▲ 0 · [VibeKing](https://vibeking.fun/product/2700)
 - [VibeSail](https://vibesail.com) — Multiplayer sailing sim — $8K MRR. ▲ 0 · [VibeKing](https://vibeking.fun/product/2704)
 - [Show Me a Leaderboard](https://showmealeaderboard.com/) — Use friendly competition to build and strengthen community. ▲ 0 · [VibeKing](https://vibeking.fun/product/2828)
