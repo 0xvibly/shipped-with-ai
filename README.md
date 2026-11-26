@@ -4,7 +4,7 @@
 
 ### ➜ Full searchable directory: **[vibeking.fun](https://vibeking.fun)**
 
-This README is a daily snapshot. The live directory has search, category filters, upvoting, maker profiles and every one of the 2,643 products — this file only shows the top 15 per category.
+This README is a daily snapshot. The live directory has search, category filters, upvoting, maker profiles and every one of the 2,644 products — this file only shows the top 15 per category.
 
 | | |
 |---|---|
@@ -15,9 +15,9 @@ This README is a daily snapshot. The live directory has search, category filters
 
 ## How this list is built
 
-This file is **regenerated every day by [GitHub Actions](.github/workflows/update.yml)**, straight from the live [vibeking.fun](https://vibeking.fun) directory via its free public API (`GET /api/products`, no key, CORS enabled — see [the docs](https://vibeking.fun/api) or the [vibeking-api](https://github.com/0xvibly/vibeking-api) repo). Nothing here is hand-curated, so it never goes stale: **2,643 products** across **16 categories**, each section showing the top 15 by community upvotes. Last updated 2026-11-25.
+This file is **regenerated every day by [GitHub Actions](.github/workflows/update.yml)**, straight from the live [vibeking.fun](https://vibeking.fun) directory via its free public API (`GET /api/products`, no key, CORS enabled — see [the docs](https://vibeking.fun/api) or the [vibeking-api](https://github.com/0xvibly/vibeking-api) repo). Nothing here is hand-curated, so it never goes stale: **2,644 products** across **16 categories**, each section showing the top 15 by community upvotes. Last updated 2026-11-26.
 
-Every listed URL is re-probed on a schedule, and the source API publishes the result: **2,343 confirmed live**, 45 at risk, 255 dead, 0 not yet checked. Most directories never tell you how much of their index has rotted.
+Every listed URL is re-probed on a schedule, and the source API publishes the result: **2,338 confirmed live**, 49 at risk, 256 dead, 1 not yet checked. Most directories never tell you how much of their index has rotted.
 
 ## Contents
 
@@ -29,7 +29,7 @@ Every listed URL is re-probed on a schedule, and the source API publishes the re
 - [Design](#design) (165)
 - [Other](#other) (123)
 - [Fintech](#fintech) (112)
-- [Education](#education) (104)
+- [Education](#education) (105)
 - [Health](#health) (85)
 - [Search](#search) (64)
 - [Video](#video) (61)
@@ -217,7 +217,7 @@ Every listed URL is re-probed on a schedule, and the source API publishes the re
 - [AllPros](https://allpros.io/) — A place to check your course/mentor before buying. ▲ 0 · [VibeKing](https://vibeking.fun/product/3131)
 - [Vector House](https://vector-house.com/) — Educational layer for AI builders. ▲ 0 · [VibeKing](https://vibeking.fun/product/3143)
 
-*…and 89 more in [Education on VibeKing](https://vibeking.fun/best).*
+*…and 90 more in [Education on VibeKing](https://vibeking.fun/best).*
 
 ## Health
 
